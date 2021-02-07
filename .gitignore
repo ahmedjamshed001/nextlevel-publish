@@ -1,0 +1,8 @@
+/Templates
+/wwwroot
+
+appsettings.*
+*.deps.json
+*.runtimeconfig.json
+
+web.config
